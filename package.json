@@ -1,0 +1,29 @@
+{
+  "name": "extreme-scrap",
+  "version": "1.0.0",
+  "description": "Convert any webpage to markdown using headless Chrome",
+  "type": "module",
+  "main": "src/scraper.js",
+  "bin": {
+    "extreme-scrap": "src/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "markdown",
+    "webpage",
+    "html-to-markdown",
+    "puppeteer",
+    "cli",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "puppeteer": "^21.7.0",
+    "turndown": "^7.1.2"
+  }
+}
