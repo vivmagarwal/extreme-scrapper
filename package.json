@@ -25,5 +25,13 @@
     "commander": "^11.1.0",
     "puppeteer": "^21.7.0",
     "turndown": "^7.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivmagarwal/extreme-scrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vivmagarwal/extreme-scrapper/issues"
+  },
+  "homepage": "https://github.com/vivmagarwal/extreme-scrapper#readme"
 }
